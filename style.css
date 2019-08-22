@@ -14,6 +14,7 @@ margin-top: 100px;
 margin-bottom: 100px;
 margin-right: 350px;
 margin-left: 350px;
+padding: 80px;
 }
 
 section {
@@ -22,6 +23,7 @@ margin-top: 100px;
 margin-bottom: 100px;
 margin-right: 350px;
 margin-left: 350px;
+padding: 20px;
 }
 
 article{
@@ -31,6 +33,7 @@ margin-bottom: 100px;
 margin-right: 350px;
 margin-left: 350px;
 font-family: 'Open Sans', sans-serif;
+padding:20px
 }
 header img{
 border-radius:50%;
@@ -51,7 +54,7 @@ color:gray;
 
 }
 
-button{ 
+button{
 color:#FCFCFC ;
 font-size: 25px;
 font-family: 'Open Sans', sans-serif;
