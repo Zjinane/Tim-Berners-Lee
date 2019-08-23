@@ -1,11 +1,27 @@
-html{ 
+{ 
 background-color:LightGray;
 font-family: 'Open Sans', sans-serif;
 
 }
 
+html {
+    background-color: #EBEBEB;
+    align-content: center;
+    color: #C2C9D3;
+    font-family: 'Open Sans', sans-serif;
+}
 
-
+.links { 
+font-size: 30px; 
+text-decoration: none; 
+padding-top: 50px; 
+padding-bottom: 50px; 
+margin-top: 10px; 
+word-spacing: 30px;
+text-align:center;
+}
+.fa { color: rgb(107, 103, 103) }
+span { font-size: 20px }
 
 header{
 text-align:center;
